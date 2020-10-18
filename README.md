@@ -33,6 +33,7 @@ The proposed project details I should include the following:
 To achieve the criteria set out in the project I will produce a Recipe application that must allow the user to interact with and do the following:
 
 •	Create a recipe page (satisfies 'Create') that stores:
+
 o	ID
 
 o	Name
