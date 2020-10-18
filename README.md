@@ -49,14 +49,16 @@ I used Jira to track my project, I used it to plan out each task I had to do. Th
 
 
 Risk assessment 
+
+![image](https://user-images.githubusercontent.com/71395610/96378725-ec6fbb00-1185-11eb-9f17-9dd56f9cd0cd.png)
+
 Front End design 
 
 The front-end design is simple. I wanted the front end to very simple to ensure I got all functionality built in. I have attached a photo of what my html front end design looks like. 
 
 
 
-
-
+![image](https://user-images.githubusercontent.com/71395610/96378743-03161200-1186-11eb-918d-b9ab6926aac0.png)
 
 
 
