@@ -7,32 +7,54 @@ The proposed project that has been set out for us is “To create a CRUD applica
 Therefore, this means I will be producing an application that ensures I can create, read, update and delete. I will have to create functions for the CRUD application, this will help the understanding of what I have learnt over the last few weeks, detailing what I understood and didn’t quite understand. 
 
 The proposed project details I should include the following:
+
 •	A Jira board 
+
 •	Documentation describing the architecture you will use for your project.
+
 •	A Risk Assessment
+
 •	A relational database. 
+
 •	A functional application 
+
 •	A functioning front-end website and integrated API. 
+
 •	Fully designed test suites for the application you are creating, as well as automated tests for validation of the application. 
+
 •	You must meet an acceptable level of test coverage 
+
 •	Code fully integrated into a Version Control System
+
 •	Code built through a CI server
+
 •	Application deployed to a cloud-based virtual machine
 
 To achieve the criteria set out in the project I will produce a Recipe application that must allow the user to interact with and do the following:
+
 •	Create a recipe page (satisfies 'Create') that stores:
 o	ID
+
 o	Name
+
 o	Flavour
+
 o	Type
+
 •	View all recipe details (satisfies 'Read') 
+
 •	Update recipe details e.g different name (satisfies 'Update')
+
 •	Delete recipes (satisfies 'Delete')
+
 Database 
 
 •	I will create a database using the H2 console as my minimum viable project 
+
 •	If I have extra time I will use a MySQL database on Google Cloud.
+
 •	I will have one database with the recipe features inside
+
 •	Below is an ERD image of how I want my database to look with the attributes I would like
 
 ![image](https://user-images.githubusercontent.com/71395610/96378671-94d14f80-1185-11eb-94c7-9e3cb93aa6a2.png)
@@ -72,5 +94,6 @@ The front-end design is simple. I wanted the front end to very simple to ensure 
 
 Known Issues
 There are a few bugs with the current build of the app:
+
 •	If the user updates a recipe it doesn’t update it just puts the name at the bottom.
 
