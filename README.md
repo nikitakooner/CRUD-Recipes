@@ -34,7 +34,8 @@ Database
 •	If I have extra time I will use a MySQL database on Google Cloud.
 •	I will have one database with the recipe features inside
 •	Below is an ERD image of how I want my database to look with the attributes I would like
- 
+
+![image](https://user-images.githubusercontent.com/71395610/96378671-94d14f80-1185-11eb-94c7-9e3cb93aa6a2.png)
 
 Project Tracking 
 I used Jira to track my project, I used it to plan out each task I had to do. The board moves from left to right, once a task is in progress, I move it along to the next column. Once it is fully implemented in my application, I will move it across again to the left therefore I will know which tasks I have completed and what I have left to complete. I have attached my Jira board below.
