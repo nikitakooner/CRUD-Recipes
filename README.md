@@ -41,6 +41,7 @@ Project Tracking
 I used Jira to track my project, I used it to plan out each task I had to do. The board moves from left to right, once a task is in progress, I move it along to the next column. Once it is fully implemented in my application, I will move it across again to the left therefore I will know which tasks I have completed and what I have left to complete. I have attached my Jira board below.
 
 
+![image](https://user-images.githubusercontent.com/71395610/96378711-d9f58180-1185-11eb-9390-a2ddc200135f.png)
 
 
 
