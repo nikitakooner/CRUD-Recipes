@@ -82,7 +82,7 @@ The front-end design is simple. I wanted the front end to very simple to ensure 
 
 
 
-![image](https://user-images.githubusercontent.com/71395610/96378743-03161200-1186-11eb-918d-b9ab6926aac0.png)
+![Screenshot from 2020-10-19 11-03-08](https://user-images.githubusercontent.com/71395610/96431106-f8499480-11fa-11eb-9b43-14bd938a0aaa.png)
 
 Testing 
 Unit tests code done but 0% coverage as I have an error running the tests 
