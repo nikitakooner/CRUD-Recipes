@@ -87,7 +87,7 @@ function deleteRecipe(id) {
 }
 
 function editRecipe(id, update){
-    fetch("http://localhost:8081/patch/combatAC/" + id,{
+    fetch("http://localhost:8081/patch/recipe" + id,{
         method: "PATCH",
         body: JSON.stringify(update),
         headers: {
