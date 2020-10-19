@@ -84,14 +84,10 @@ The front-end design is simple. I wanted the front end to very simple to ensure 
 
 ![image](https://user-images.githubusercontent.com/71395610/96378743-03161200-1186-11eb-918d-b9ab6926aac0.png)
 
+Testing 
+Unit tests code done but 0% coverage as I have an error running the tests 
 
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/71395610/96425596-1b247a80-11f4-11eb-91a7-e99085d919f7.png)
 
 
 Known Issues
@@ -99,4 +95,3 @@ There are a few bugs with the current build of the app:
 
 •	If the user updates a recipe it doesn’t update it just puts the name at the bottom.
 
->>>>>>> main
