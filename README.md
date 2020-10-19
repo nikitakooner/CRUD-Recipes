@@ -87,7 +87,7 @@ The front-end design is simple. I wanted the front end to very simple to ensure 
 Testing 
 Unit tests code done but 0% coverage as I have an error running the tests 
 
-![image](https://user-images.githubusercontent.com/71395610/96425596-1b247a80-11f4-11eb-91a7-e99085d919f7.png)
+![Screen Shot 2020-10-19 at 10 14 28 AM](https://user-images.githubusercontent.com/71395610/96425707-37c0b280-11f4-11eb-8378-e2cb1757180e.png)
 
 
 Known Issues
