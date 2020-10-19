@@ -89,6 +89,11 @@ Unit tests code done but 0% coverage as I have an error running the tests
 
 ![Screen Shot 2020-10-19 at 10 14 28 AM](https://user-images.githubusercontent.com/71395610/96425707-37c0b280-11f4-11eb-8378-e2cb1757180e.png)
 
+Repositories
+I have a few repositories for this project, this is because I started the project a few times before being happy with any code I had written. The final project I submitted to a new repository so I wouldn’t get confused.
+
+![Screen Shot 2020-10-19 at 12 57 49 PM](https://user-images.githubusercontent.com/71395610/96448398-39e23b80-120b-11eb-983b-526a226e3ff3.png)
+
 
 Known Issues
 There are a few bugs with the current build of the app:
