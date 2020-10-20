@@ -20,7 +20,7 @@ class Recipe2ApplicationTests {
 
 	@SpringBootTest
 	@ActiveProfiles(profiles = "test")
-	class DnDBackendApplicationTests {
+	class RecipeIntergrationTest {
 
 		@Test
 		void testEqualsVerifier() {
